@@ -1,6 +1,6 @@
 ---
 title: Welcome to Jekyll!
-layout: home
+layout: post
 ---
 
 ## Welcome to GitHub Pages
